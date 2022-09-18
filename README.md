@@ -10,4 +10,4 @@ This app demonstrates the following views and techniques:
 * Using the Layout Editor to create layout
 * In the Layout Editor: Creating chains, aligning objects, using baseline alignment for labels
 
-<img width="533" alt="image" src="https://user-images.githubusercontent.com/30737946/190875002-b3e1c319-c9cd-4310-891b-7596d9664e2a.png">
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/30737946/190906887-2b33056b-2afa-4b00-9430-65dc4955cc73.png">
